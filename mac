@@ -29,3 +29,6 @@ echo "Installing ack, a good way to search through files ..."
 echo "Installing htop, a command for displaying running processes ..."
   brew install htop
 
+echo "Installing apache bench, a tool for benchmarking a server ..."
+  brew install 'https://raw.github.com/simonair/homebrew-dupes/e5177ef4fc82ae5246842e5a544124722c9e975b/ab.rb'
+
