@@ -32,6 +32,7 @@ What it sets up
 * curl and wget (for executing HTTP requests)
 * Ack (for finding things in files)
 * htop (for displaying running processes)
+* apache bench (for benchmarking servers)
 
 
 It should take about a couple of minutes for everything to install, depending on your machine.
