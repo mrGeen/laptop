@@ -29,6 +29,7 @@ What it sets up
 * SSH public key (for authenticating with services like Github and Heroku)
 * Homebrew (for managing operating system libraries)
 * Git (for managing versions of code)
+* curl and wget for HTTP requests
 * Ack (for finding things in files)
 
 
