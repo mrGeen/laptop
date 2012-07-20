@@ -29,10 +29,10 @@ What it sets up
 * SSH public key (for authenticating with services like Github and Heroku)
 * Homebrew (for managing operating system libraries)
 * Git (for managing versions of code)
-* curl and wget (for executing HTTP requests)
-* Ack (for finding things in files)
-* htop (for displaying running processes)
-* apache bench (for benchmarking servers)
+* CURL and WGET (for executing HTTP requests)
+* ACK (for finding things in files)
+* HTOP (for displaying running processes)
+* Apache Bench (for benchmarking servers)
 
 
 It should take about a couple of minutes for everything to install, depending on your machine.
